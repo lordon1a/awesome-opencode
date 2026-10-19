@@ -1,0 +1,10 @@
+name: Foxpit
+repo: https://github.com/lordon1a/foxpit-releases
+homepage: https://foxpit.dev
+tagline: Desktop app that runs OpenCode alongside Claude Code and Codex as one agent team with shared markdown memory
+description: Each seat in a Foxpit team can run OpenCode on any model you choose, while a lead agent splits the task and hands parts out. Decisions and context are kept in .foxpit/memory as plain markdown in your repo, so a new OpenCode session starts knowing what the other agents did. Includes side-by-side terminals and a 3D office view showing which agent is working, stuck or waiting for approval. Closed source, paid with a free trial. Windows, macOS and Linux.
+tags:
+  - gui
+  - multi-agent
+  - desktop
+  - memory
